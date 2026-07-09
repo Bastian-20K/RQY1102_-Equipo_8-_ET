@@ -17,3 +17,5 @@ pueden retrasar la ejecución de mantenciones y reparaciones esenciales, Muchos 
 Solucion:
 
 Nuestra propuesta es desarrollar e implementar una solucion tecnológica (Software) que automatice la gestión financiera en el recinto. Se busca garantizar la precisión en la cobranza, asegurar una transparencia en el uso de fondos y permitir en tiempo real el acceso a información financiera tanto como a los administradores como para los residentes, así optimizando la estabilidad financiera del edificio
+
+Enlace al Prototipo: https://effect-gem-04839943.figma.site
